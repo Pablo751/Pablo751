@@ -8,7 +8,7 @@ Product engineer. I build whole products with AI, from the first commit to payin
 
 **Stack:** TypeScript, Next.js, NestJS, React Native, Python, FastAPI, Supabase, Stripe, LLM and RAG systems.
 
-**Portfolio:** [pablo751.github.io](https://pablo751.github.io)
-**LinkedIn:** [linkedin.com/in/juan-pablo-casado](https://linkedin.com/in/juan-pablo-casado)
+- **Portfolio:** [pablo751.github.io](https://pablo751.github.io)
+- **LinkedIn:** [linkedin.com/in/juan-pablo-casado](https://linkedin.com/in/juan-pablo-casado)
 
 Most of my work is for clients and private by contract; the portfolio shows what I can share.
